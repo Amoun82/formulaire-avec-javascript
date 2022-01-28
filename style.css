@@ -1,0 +1,34 @@
+form
+{
+    display: block;
+}
+
+body
+{
+    padding-top: 50px;
+    background-image: url("https://www.hdnicewallpapers.com/Walls/Normal/Rainbow/Rainbow_on_Mountain_HD_Image.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.identite
+{
+    color: deeppink;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#submit_envoyer
+{
+    margin-top: 25px;
+    background-image: url("https://pixy.org/src/480/thumbs350/4800346.jpg");
+    background-size: cover;
+    color:mediumblue;
+}
+
+input
+{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
